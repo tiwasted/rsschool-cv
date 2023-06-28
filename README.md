@@ -1,1 +1,1 @@
-# rsschool-cv
+(https://tiwasted.github.io/rsschool-cv/cv)
