@@ -6,7 +6,9 @@
 
 * Telegram: @tiwasted
 
-* Discord: Temirlan (@tiwasted)
+* Discord: Temirlan (@tiwasted)   
+
+* Github: [tiwasted](https://github.com/tiwasted)
 
 ---
 
