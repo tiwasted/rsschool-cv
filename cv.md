@@ -1,6 +1,6 @@
 ## Meiramov Temirlan
----
-#### Contacts:
+
+### Contacts:
 
 * Phone number: +7-708-364-03-50
 
@@ -8,9 +8,9 @@
 
 * Discord: Temirlan (@tiwasted)
 
----
+===
 
-#### Information about me:
+### Information about me:
 
 Having managed to work as a project manager, I became interested in software development after seeing on a real project. I'm sure that with the help of programming you can create useful products and breakthrough techonologies.
 
@@ -19,7 +19,7 @@ My target Software Engineer, I try to be interested differrent areas in the deve
 I'm convenced that if you do not stop studying and acquire the skills you need, you can become a professional in your field.
 
 ---
-#### Skills:
+### Skills:
 
 * HTML and CSS (basic)
 
@@ -29,7 +29,7 @@ I'm convenced that if you do not stop studying and acquire the skills you need, 
 
 * SQLite, PostgreSQL
 ---
-#### Code Examples:
+### Code Examples:
 
 ```
 
@@ -41,15 +41,15 @@ return int(num)
 
 ```
 ---
-#### Education
+### Education
 
 * Karaganda state technical university
 
 * Courses:
+  + Stepik: Поколение Python
 
-+ Stepik: Поколение Python
 ---
-#### Languages:
+### Languages:
 
 * English - A2
 
