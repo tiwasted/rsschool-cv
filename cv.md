@@ -8,7 +8,7 @@
 
 * Discord: Temirlan (@tiwasted)
 
-***
+---
 
 ### Information about me:
 
