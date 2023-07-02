@@ -30,6 +30,7 @@ I'm convenced that if you do not stop studying and acquire the skills you need, 
 * Git/Github
 
 * SQLite, PostgreSQL
+
 ---
 ### Code Examples:
 
