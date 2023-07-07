@@ -1,1 +1,154 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
 
+body {
+    background-color: #f1f1f1;
+    color: #0f141e;
+
+    font-size: 22px;
+    font-weight: normal;
+}
+
+.headerCV {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.headerCV img {
+    width: 200px;
+    border-radius: 50%;
+    box-shadow: 4px 2px 2px rgba(0, 0, 0, 025);
+    display: block;
+    margin: 0 auto;
+
+}
+
+.menu {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    background-color: #f2f2f2;
+    padding: 5px;
+}
+
+.content_contact {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #B2BAD1;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.5);
+    border-radius: 100px;
+    transform: scale(0.9);
+}
+
+.content_aboutme {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #b2d1c9;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.5);
+    border-radius: 100px;
+    transform: scale(0.9);
+}
+
+.content_skills {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #D1B2BA;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.5);
+    border-radius: 100px;
+    transform: scale(0.9);
+}
+
+.content_lang {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #B2BAD1;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.5);
+    border-radius: 100px;
+    transform: scale(0.9);
+}
+
+.content_edu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #b2d1c9;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.5);
+    border-radius: 100px;
+    transform: scale(0.9);
+}
+
+.content_exp {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #D1B2BA;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.5);
+    border-radius: 100px;
+    transform: scale(0.9);
+}
+
+.code {
+    margin: 15px;
+
+}
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    background-color: #92A8D1;
+    padding: 5px;
+    text-align: center;
+}
+
+.footer img {
+    width: 80px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Quicksand', sans-serif;
+    margin: 10px;
+}
+
+h3 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    font-size: 24px;
+    font-style: italic;
+    margin: 10px;
+}
+
+li {
+    margin-bottom: 2px;
+    padding-left: 10px;
+    content: "";
+    position: relative;
+    font-family: 'Quicksand', sans-serif;
+    border-radius: 50%;
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+    color: #333333;
+    font-weight: bold;
+    padding: 10px 10px;
+}
